@@ -1,4 +1,4 @@
-# Abstraction-and-Encapsulation
+# Fan Testing Program
 
 Hello, My name is Joebeck Andrew F. Gusi from BSCPE 1-5.
 
