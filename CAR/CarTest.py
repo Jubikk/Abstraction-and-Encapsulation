@@ -13,11 +13,11 @@ def car():
 #Use range for both acceleration and brake
    for i in range(5):
        The_Car.accelerate()
-       print("The current speed is:", The_Car.get_speed())
+       print(f"The current speed is: {Fore.BLUE}{The_Car.get_speed()}{Fore.RESET}")
     
    for i in range(5):
        The_Car.brake()
-       print("The current speed is:", The_Car.get_speed())
+       print(f"The current speed is: {Fore.YELLOW}{The_Car.get_speed()}{Fore.RESET}")
 
 if __name__== "__main__" :
     car()
