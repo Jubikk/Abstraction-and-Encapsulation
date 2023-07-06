@@ -1,4 +1,4 @@
-#Joebeck Andrew F. Gusi | BSCPE 1-5 | Assignment No.9 |
+#Joebeck Andrew F. Gusi | BSCPE 1-5 | Assignment No.9 | FAN |
 
 #Create a Fan Class and assign the speed
 class FAN:
