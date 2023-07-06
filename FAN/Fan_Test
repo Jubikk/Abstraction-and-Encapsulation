@@ -1,12 +1,5 @@
-#Joebeck Andrew F. Gusi | BSCPE 1-5 | Assignment No.9 |
+# Joebeck Andrew F. Gusi | BSCPE 1-5 | Assigment No.9 |
 
 #import Fan_Class 
+from Fan_Class import FAN
 
-#First Fan
-#Second Fan
-
-#Print or Display the first fan
-# Speed, Radius, Color, On
-
-#Print or Display the second fan
-# Speed, Radius, Color, On
