@@ -5,11 +5,11 @@ from PetClass import PET
 
 #input function for:
 #name
-NAME = input("Please enter the name of your pet:")
+name = input("Please enter the name of your pet:")
 #age
-AGE = input("Please enter the age of your pet:")
+age = input("Please enter the age of your pet:")
 #animal_type
-TYPE = input("Please enter the type of animal is your pet:")
+type = input("Please enter the type of animal is your pet:")
 
 
 #set the inputted values
