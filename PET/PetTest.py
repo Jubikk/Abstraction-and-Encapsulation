@@ -20,9 +20,8 @@ pet.set_age(age)
 pet.set_animal_type(type)
 
 #print/display the details
-print("The pet's name is: " + pet.get_name())
-print("The pet's age is: " + pet.get_age())
-print("The pet's animal type is: " + pet.get_animal_type())
-
+print("The pet's name is: " + Fore.BLUE + pet.get_name() + Style. RESET_ALL)
+print("The pet's age is: " + Fore.RED + pet.get_age() + Style. RESET_ALL)
+print("The pet's animal type is: " + Fore.YELLOW + pet.get_animal_type() + Style. RESET_ALL)
 
 #end
