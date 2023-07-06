@@ -2,7 +2,7 @@
 
 #import the PetClass
 from PetClass import PET
-
+from colorama import Fore, Style
 pet = PET()
 
 #input function for:
