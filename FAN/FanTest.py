@@ -1,5 +1,6 @@
 # Joebeck Andrew F. Gusi | BSCPE 1-5 | Assigment No.9 |
 
 #import Fan_Class 
-from Fan_Class import FAN
+from FanClass import FAN
+
 
