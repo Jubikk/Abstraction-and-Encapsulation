@@ -2,6 +2,7 @@
 
 #import Class
 from CarClass import CAR
+from colorama import init, Fore
 
 #def "car"
 def car():
