@@ -14,16 +14,16 @@ fan2 = FAN(FAN.Medium, 5, 'blue', False)
 print("FAN_1:")
 print("-SPEED:", fan1.get_speed())
 print("-RADIUS:", fan1.get_radius())
-print("-COLOR:", fan1.get_color())
+print("-COLOR:",Fore.YELLOW + fan1.get_color() + Fore.RESET)
 print("-ON:", fan1.get_on())
 
-print("\n================================")
+print(Fore.GREEN + "\n================================" + Fore.RESET)
 
 #Print or Display the second fan
 print("\nFAN_2:")
 print("-SPEED:", fan2.get_speed())
 print("-RADIUS:", fan2.get_radius())
-print("-COLOR:", fan2.get_color())
+print("-COLOR:",Fore.BLUE + fan2.get_color() + Fore.RESET)
 print("-ON:", fan2.get_on())
 
 #end 
