@@ -2,6 +2,7 @@
 
 #import Fan_Class 
 from FanClass import FAN
+from colorama import init, Fore
 
 #First Fan
 fan1 = FAN(FAN.Fast, 10, 'yellow', True)
