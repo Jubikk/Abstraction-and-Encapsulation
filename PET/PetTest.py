@@ -3,6 +3,7 @@
 #import the PetClass
 from PetClass import PET
 from colorama import Fore, Style
+import time
 pet = PET()
 
 #input function for:
@@ -19,6 +20,8 @@ pet.set_name(name)
 pet.set_age(age)
 pet.set_animal_type(type)
 
+time.sleep(1)
+print("\n================================")
 #print/display the details
 print("The pet's name is: " + Fore.BLUE + pet.get_name() + Style. RESET_ALL)
 print("The pet's age is: " + Fore.RED + pet.get_age() + Style. RESET_ALL)
