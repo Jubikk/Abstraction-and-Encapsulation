@@ -16,8 +16,10 @@ print("-RADIUS:", fan1.get_radius())
 print("-COLOR:", fan1.get_color())
 print("-ON:", fan1.get_on())
 
+print("\n================================")
+
 #Print or Display the second fan
-print("FAN_2:")
+print("\nFAN_2:")
 print("-SPEED:", fan2.get_speed())
 print("-RADIUS:", fan2.get_radius())
 print("-COLOR:", fan2.get_color())
